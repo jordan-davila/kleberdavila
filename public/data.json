@@ -1,13 +1,15 @@
 {
     "home": {
         "name": "Kleber Davila",
-        "subtitle": "Designing and Illustrating unique and engaging digital experiences"
+        "subtitle": "Designing & Illustrating unique and engaging digital experiences"
     },
     "about": {
-        "title": "<i>I'M KLEBER DAVILA. A <br>DIGITAL ARTIST FOCUSED ON<br></i>DIGITAL PRODUCTS &amp; EXPERIENCES",
-        "description": "I currently work as a freelance 3D Artist at ModernArts Corporation. I made quite a few artwork through ModernArts.",
+        "title": "<i>HELLO, I'M KLEBER DAVILA <br>A CREATIVE MEDIA </i><br>SPECIALIST",
+        "description": "With a background in animation and a passion for creating visually compelling content, I specialize in motion design and video editing. I've collaborated with a variety of clients, from media broadcast networks to social media influencers, helping them elevate their brands with high-quality visuals. Drawing, anime, and Asian culture inspire my creativity, and I love taking on new challenges to bring ideas to life.",
         "experiences": [
-            {"company": "ModernArts Corporation", "job": "3D Artist", "time": "Sep 2019 - Present"},
+            {"company": "Beckert", "job": "Freelance Video Editor", "time": "Jun 2024 - Present"},
+            {"company": "Cheddar News", "job": "Motion Graphic Artist", "time": "Aug 2021 - Jun 2023"},
+            {"company": "ModernArts Corporation", "job": "3D Artist", "time": "Sep 2020 - Jan 2022"},
             {"company": "Warrior Marketing", "job": "Freelance Video Editor", "time": "Jun 2019 - Aug 2019"},
             {"company": "AVIDesign", "job": "Designer & Administrator", "time": "May 2018 - Apr 2019"}
         ]
@@ -18,20 +20,20 @@
         "first_name": "Kleber"
     },
     "social": [
-        {"name": "INSTAGRAM", "link": "https://www.instagram.com/kyazart/"},
+        {"name": "INSTASTUDIO", "link": "https://www.instagram.com/kya2studio/"},
+        {"name": "INSTAART", "link": "https://www.instagram.com/kyazart"},
         {"name": "LINKEDIN", "link": "https://www.linkedin.com/in/kleberdavila/"},
-        {"name": "FACEBOOK", "link": "https://www.facebook.com/kyazart1"},
-        {"name": "YOUTUBE", "link": "https://www.youtube.com/channel/UCe76fbIKfj6idSZ2mDu39-Q"}
+        {"name": "YOUTUBE", "link": "https://www.youtube.com/@kya2studio"},
+        {"name": "GUMROAD", "link": "https://kya2studio.gumroad.com/"}
     ],
     "categories": [
         "Featured",
         "Illustrations",
-        "Film & Motion",
-        "Animations",
+        "Film",
+        "Motions",
         "3D Art",
         "Designs",
         "Sketches",
         "Tutorials"
-        
     ]
 }

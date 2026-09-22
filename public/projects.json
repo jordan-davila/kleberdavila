@@ -2,17 +2,17 @@
     {
         "name": "Uraraka",
         "slug": "uraraka",
-        "description": "A colored-pencil fanart sketch from the series My Hero Academia.",
+        "description": "A stunning colored-pencil fanart sketch from a known series around this generation, 'My Hero Academia', featuring the character Uraraka. A fun drawing as a hobby showing my artistic talent on attention to detail. Scanned and edited on Photoshop to give more vibrant color and clearing any defects from the scanning",
         "video_path": "",
         "model_path": "",
         "image_path": "uraraka",
-        "categories": ["Featured", "Sketches"],
+        "categories": ["Sketches"],
         "images": ["main.jpg"]
     },
     {
         "name": "Code Geass - C2",
         "slug": "code-geass-c2",
-        "description": "A colored-pencil fanart sketch from the series Code Geass, character C.2.",
+        "description": "A stunning colored-pencil fanart sketch from the popular series 'Code Geass', featuring the character C.2. A fun drawing as a hobby showing my artistic talent on attention to detail. Scanned and edited on Photoshop to give more vibrant color and clearing any defects from the scanning",
         "video_path": "",
         "model_path": "",
         "image_path": "code-geass-c2",
@@ -22,131 +22,131 @@
     {
         "name": "RedECX",
         "slug": "redecx",
-        "description": "A promotional video for RedECX. An auction for art gallery located in Ecuador. Created for their social media.",
+        "description": "A short promotional video created for the company RedECX located in Ecuador. With the help of this video, RedECX has been able to reach a wider audience and generate more leads through social media platforms.",
         "video_path": "https://www.youtube.com/watch?v=elBA8j5f7ww",
         "model_path": "",
         "image_path": "redecx",
-        "categories": ["Film & Motion"],
+        "categories": ["Motions"],
         "images": ["main.jpg"]
     },
     {
         "name": "Tipsi Calculator",
         "slug": "tipsi-calculator",
-        "description": "A promotional video for an Android & iOS app created by Nyanku.",
+        "description": "Introducing Tipsi Calculator, an app that helps you calculate the appropriate tip amount for any country and divide it among your party, developed by Nyanku. The app has a user-friendly interface and it makes it easy for you to be a savvy and gracious tipper. The promotional video showcases the app's features and ease of use. Available for both Android and iOS.",
         "video_path": "https://www.youtube.com/watch?v=KpilFzD8n7Y",
         "model_path": "",
         "image_path": "tipsi-calculator",
-        "categories": ["Film & Motion"],
+        "categories": ["Motions"],
         "images": ["main.png"]
     },
     {
         "name": "Loveli Love Calculator",
         "slug": "loveli-love-calculator",
-        "description": "A promotional video for an app created by Nyanku.",
+        "description": "Introducing Loveli Love Calculator, a fun and interactive app developed by Nyanku, which predicts the compatibility between you and your partner based on your names. Simply type in your name and your partner's name and let the app do the rest. The promotional video showcases how easy and fun it is to use. Available for both Android and iOS.",
         "video_path": "https://www.youtube.com/watch?v=7dwRkOLiVDs",
         "model_path": "",
         "image_path": "loveli-love-calculator",
-        "categories": ["Film & Motion"],
+        "categories": ["Motions"],
         "images": ["main.jpg"]
     },
     {
         "name": "Bambu Bar",
         "slug": "bambu-bar",
-        "description": "A promotional video for a bar and restaurant located in Quito, Ecuador. Created for their social media.",
-        "video_path": "https://www.youtube.com/watch?v=4fK37Q577_8",
+        "description": "Introducing Bambu Bar, a classic bar and restaurant located in Quito, Ecuador with 35 years of tradition, featuring Ecuadorian and international cuisine, Gastropub and Live Music. This promotional video showcases the vibrant atmosphere, and highlights their delicious food and drinks. Perfectly crafted for sharing on their social media.",
+        "video_path": "https://www.youtube.com/watch?v=m80LdTafxPs",
         "model_path": "",
         "image_path": "bambu-bar",
-        "categories": ["Film & Motion"],
+        "categories": ["Motions"],
         "images": ["main.jpg"]
     },
     {
         "name": "Hostal Varadero 3",
         "slug": "hostal-varadero-3",
-        "description": "A promotional video for a hotel located in Quito, Ecuador. Created for their social media.",
+        "description": "Introducing Hostal Varadero 3, a charming and comfortable hotel located in Quito, Ecuador. This promotional video captures the welcoming atmosphere and warm hospitality of the hotel, showcasing its comfortable rooms, modern amenities, and convenient location. Perfectly crafted for sharing on their social media.",
         "video_path": "https://www.youtube.com/watch?v=NNQPbRquLyI",
         "model_path": "",
         "image_path": "hostal-varadero-3",
-        "categories": ["Film & Motion"],
+        "categories": ["Motions"],
         "images": ["main.jpg"]
     },
     {
         "name": "La Marelle",
         "slug": "la-marelle",
-        "description": "A promotional video for a fun family restaurant. Created for their social media.",
+        "description": "Introducing La Marelle, a fun and family-friendly French restaurant that offers a unique dining experience. The promotional video showcases the restaurant's delicious cuisine, games, parties for infants, theater, circus, and puppets performances that make La Marelle stand out from the rest. Perfectly crafted for sharing on their social media",
         "video_path": "https://www.youtube.com/watch?v=QAktXQqnUwY",
         "model_path": "",
         "image_path": "la-marelle",
-        "categories": ["Film & Motion"],
+        "categories": ["Motions"],
         "images": ["main.jpg"]
     },
     {
         "name": "Las Brochetas de David",
         "slug": "las-brochetas-de-david",
-        "description": "A promotional video for a restaurant in Ecuador. Created for their social media.",
+        "description": "A promotional video was designed to showcase the mouth-watering BBQ offerings of Las Brochetas de David, a BBQ restaurant located in Ecuador. The video was designed to highlight the restaurant's unique menu items and atmosphere, and to help attract more customers through their social media.",
         "video_path": "https://www.youtube.com/watch?v=Zny-EaI91nU",
         "model_path": "",
         "image_path": "las-brochetas-de-david",
-        "categories": ["Film & Motion"],
+        "categories": ["Motions"],
         "images": ["main.jpg"]
     },
     {
         "name": "Los Pollazos del Manaba",
         "slug": "los-pollazos-del-manaba",
-        "description": "A promotional video for a chicken restaurant. Created for their social media.",
+        "description": "A promotional video was created to showcase the delicious offerings of Los Pollazos del Manaba, a chicken restaurant. This video was designed to highlight the restaurant's unique menu items and atmosphere, and to help attract more customers through their social media.",
         "video_path": "https://www.youtube.com/watch?v=14ZDLNWgWGU",
         "model_path": "",
         "image_path": "los-pollazos-del-manaba",
-        "categories": ["Film & Motion"],
+        "categories": ["Motions"],
         "images": ["main.jpg"]
     },
     {
         "name": "Better Home Products",
         "slug": "better-home-products",
-        "description": "A promotional video for their furniture online store. Also, I had the opportunity to create a brand new logo for their new site.",
+        "description": "A promotional video for Better Home Products, an online furniture store, was designed to showcase their products and services. The video was designed to highlight the unique features of the store, and to help attract more customers. As a bonus, I also had the opportunity to design a brand new logo for the store's website to give a fresh and professional look. The video and logo were designed to work together to give a cohesive and effective representation of the store's brand.",
         "video_path": "https://www.youtube.com/watch?v=km1SjW5OHgE",
         "model_path": "",
         "image_path": "better-home-products",
-        "categories": ["Film & Motion", "Designs"],
+        "categories": ["Motions", "Designs"],
         "images": ["main.jpg", "BHP-process.jpg", "BHP-Final.jpg"]
     },
     {
         "name": "Giorgio Intro Animation",
         "slug": "giorgio-intro",
-        "description": "A short animation introduction from the album 'Random Access Memories' by Daft Punk “Giorgio by Moroder”. I don't own the audio, this is just for education purpose. Animated and composite in Adobe After Effects and Clip Studio Paint EX.",
+        "description": "'Giorgio by Moroder' from Daft Punk's 'Random Access Memories' album comes alive with a short animation introduction. Created using Adobe After Effects and Clip Studio Paint EX, this animation showcases my animation and compositing skills. Please note that this is for educational purposes only and not intended for commercial use as I do not own the audio rights.",
         "video_path": "https://www.youtube.com/watch?v=WQ43giF591M",
         "model_path": "",
         "image_path": "giorgio",
-        "categories": ["Animations"],
+        "categories": ["Motions"],
         "images": ["main.jpg"]
     },
     {
         "name": "Rotation",
         "slug": "rotation",
-        "description": "I had the opportunity to work on this short film as a cameraman, animating the creature monster and visual effects. ",
+        "description": "'Rotation' is a short film where I had the opportunity to work as a Cameraman, animating the creature monster scenes and creating visual effects for some scenes. Directed & written by Daniel Bustillos Costales.",
         "video_path": "https://www.youtube.com/watch?v=8W1kaj9Hc44",
         "model_path": "",
         "image_path": "rotation",
-        "categories": ["Film & Motion", "Animations"],
+        "categories": ["Film", "Motions"],
         "images": ["main.jpg"]
     },
     {
         "name": "Balloontopus",
         "slug": "balloontopus",
-        "description": "A short live-action and 3D animatoin film. Modeled and animated in Autodesk Maya and edited on Premiere.",
+        "description": "'Balloontopus' is a short live-action and 3D animation film that tells the story of a boy who creates a 'Balloon Octopus' through his imagination. The film follows the journey of the Balloontopus as it is brought to life and takes flight, only to come crashing down due to a confrontation with a plane shark. This project showcases my techincal skills as 3D modeler and animator using Autodesk Maya, as well as my ability to edit and composite using Premiere.",
         "video_path": "https://www.youtube.com/watch?v=bC9rtHb6joA",
         "model_path": "",
         "image_path": "balloontopus",
-        "categories": ["Animations","Film & Motion"],
+        "categories": ["Film", "Motions"],
         "images": ["main.jpg"]
     },
     {
         "name": "House 1028",
         "slug": "house-1028",
-        "description": "Created all in Blender, this film is based on an Ecuadorian legend called 'the house 1028' (La Casa 1028). Along with my classmate, we presented this for our thesis project for the Univerdad de las Americas, Ecuador.",
+        "description": "'The House 1028' is a short and suspenseful animation film based on an Ecuadorian legend from Quito. The story follows a young girl named Bella Aurora who is trapped in a recurring nightmare where she is hunted by a (ghost-like) dark blue bull. Despite her efforts to escape, she is unable to wake up from the dream and is continuously stalked by the bull. The film, with its eerie and terrifying atmosphere, is sure to keep the audience on the edge of their seats. This animation was created in Blender 3D, composite in After Effects. A thesis project for La Universidad de las Americas. This project was worked with Lenin Ortiz and myself.",
         "video_path": "https://www.youtube.com/watch?v=IgI_PD2eq6M",
         "model_path": "",
         "image_path": "house-1028",
-        "categories": ["Animations"],
+        "categories": ["Motions"],
         "images": ["main.jpg","char-design.png", "room-design.jpg"]
     },
     {
@@ -156,7 +156,7 @@
         "video_path": "https://www.youtube.com/watch?v=PpHX6HBD33w",
         "model_path": "",
         "image_path": "el-baul-del-tesoro",
-        "categories": ["Animations"],
+        "categories": ["Motions"],
         "images": ["main.jpg", "background-001.jpg"]
     },
     {
@@ -166,7 +166,7 @@
         "video_path": "https://www.youtube.com/watch?v=e8lKwiC4hMQ",
         "model_path": "",
         "image_path": "dan-henry-insta-post",
-        "categories": ["Film & Motion"],
+        "categories": ["Film"],
         "images": ["main.png"]
     },
     {
@@ -176,7 +176,7 @@
         "video_path": "https://www.youtube.com/watch?v=jnbtNZJ4NXU",
         "model_path": "",
         "image_path": "forty2-7-funnel",
-        "categories": ["Film & Motion"],
+        "categories": ["Film"],
         "images": ["main.png"]
     },
     {
@@ -186,7 +186,7 @@
         "video_path": "https://www.youtube.com/watch?v=2NTP6dXeV_M",
         "model_path": "",
         "image_path": "forty2-7-story",
-        "categories": ["Film & Motion"],
+        "categories": ["Film"],
         "images": ["main.png"]
     },
     {
@@ -196,7 +196,7 @@
         "video_path": "https://www.youtube.com/watch?v=0u4ynWghmvU",
         "model_path": "",
         "image_path": "ig-masterminds",
-        "categories": ["Film & Motion"],
+        "categories": ["Film"],
         "images": ["main.png"]
     },
     {
@@ -206,7 +206,7 @@
         "video_path": "https://www.youtube.com/watch?v=HCx9JJmrk0g",
         "model_path": "",
         "image_path": "ig-masterminds-testimonials",
-        "categories": ["Film & Motion"],
+        "categories": ["Film"],
         "images": ["main.png"]
     },
     {
@@ -341,8 +341,8 @@
     },
     {
         "name": "I'm off to Las Vegas",
-        "slug": "after-school",
-        "description": "The title says it all. Created in Photoshop.",
+        "slug": "frankies-bride-goes-to-las-vegas",
+        "description": "The title says it all. Painted in Photoshop.",
         "video_path": "",
         "model_path": "",
         "image_path": "frankies-bride-goes-to-las-vegas",
@@ -532,7 +532,7 @@
     {
         "name": "Tune of the Night",
         "slug": "tune-of-the-night",
-        "description": "'밤의곡조' Created for ModernArts Corporation. Modeled in Blender 2.9 and rendered in Keyshot for the company ModernArts in South Korea.",
+        "description": "'밤의조' Created for ModernArts Corporation. Modeled in Blender 2.9 and rendered in Keyshot for the company ModernArts in South Korea.",
         "video_path": "",
         "model_path": "/models/babyharp.glb",
         "image_path": "tune-of-the-night",
@@ -578,5 +578,225 @@
         "image_path": "little-red-sketch",
         "categories": ["Sketches"],
         "images": ["main.jpg"]
+    },
+    {
+        "name": "A Happy Bears Family",
+        "slug": "daily-of-a-happy-bears-family",
+        "description": "Modeled/Sculpted on Blender, texture and rendering on Keyshot.",
+        "video_path": "",
+        "model_path": "",
+        "image_path": "daily-of-a-happy-bears-family",
+        "categories": ["3D Art"],
+        "images": ["main.png"]
+    },
+    {
+        "name": "Electric Bike [CHD]",
+        "slug": "electric-bike-cheddar",
+        "description": "A short animation scene I made for Cheddar News segment. Voice by Michelle Castillo. Vectors are from freepik.com",
+        "video_path": "https://www.youtube.com/watch?v=64j4g0H3-xA",
+        "model_path": "",
+        "image_path": "electric-bikes-cheddar",
+        "categories": ["Motions"],
+        "images": ["main.png"]
+    },
+    {
+        "name": "Black Owners Business [CHD]",
+        "slug": "black-owners-business-cheddar",
+        "description": "A short animation scene I made for Cheddar News segment. Voice by Michelle Castillo. Vectors are from freepik.com",
+        "video_path": "https://www.youtube.com/watch?v=_DmlmUsgHNI",
+        "model_path": "",
+        "image_path": "black-owners-business-cheddar",
+        "categories": ["Motions"],
+        "images": ["main.png"]
+    },
+    {
+        "name": "Psychic Industry [CHD]",
+        "slug": "psychic-industry-cheddar",
+        "description": "A short animation scene I made for Cheddar News segment. Voice by Michelle Castillo. Vectors are from freepik.com",
+        "video_path": "https://www.youtube.com/watch?v=EOWmg3J1a-0",
+        "model_path": "",
+        "image_path": "psychic-industry-cheddar",
+        "categories": ["Motions"],
+        "images": ["main.png"]
+    },
+    {
+        "name": "Girls Instem [CHD]",
+        "slug": "girls-instem-cheddar",
+        "description": "A short animation scene I made for Cheddar News segment. Voice by Michelle Castillo. Vectors are from freepik.com",
+        "video_path": "https://www.youtube.com/watch?v=aSwolxuZr10",
+        "model_path": "",
+        "image_path": "girls-instem-cheddar",
+        "categories": ["Motions"],
+        "images": ["main.png"]
+    },
+    {
+        "name": "Biz of Diamonds [CHD]",
+        "slug": "biz-diamonds-cheddar",
+        "description": "A short animation scene I made for Cheddar News segment. Voice by Michelle Castillo. Vectors are from freepik.com",
+        "video_path": "https://www.youtube.com/watch?v=WObOOg2Z49k",
+        "model_path": "",
+        "image_path": "biz-diamonds-cheddar",
+        "categories": ["Motions"],
+        "images": ["main.png"]
+    },
+    {
+        "name": "Lego Toys Emotions [CHD]",
+        "slug": "lego-emotions-cheddar",
+        "description": "A short animation scene I made for Cheddar News segment. Voice by Michelle Castillo. Vectors are from freepik.com",
+        "video_path": "https://www.youtube.com/watch?v=1GkVh22i-KE",
+        "model_path": "",
+        "image_path": "lego-emotions-cheddar",
+        "categories": ["Motions"],
+        "images": ["main.png"]
+    },
+    {
+        "name": "ESG EY [CHD]",
+        "slug": "esg-ey-cheddar",
+        "description": "A short animation scene I made for Cheddar News segment. Voice by Michelle Castillo. Vectors are from freepik.com",
+        "video_path": "https://www.youtube.com/watch?v=S8hyjbTLNng",
+        "model_path": "",
+        "image_path": "esg-ey-cheddar",
+        "categories": ["Motions"],
+        "images": ["main.png"]
+    },
+    {
+        "name": "Car Safety [CHD]",
+        "slug": "car-safety-cheddar",
+        "description": "A short animation scene I made for Cheddar News segment. Voice by Michelle Castillo. Vectors are from freepik.com",
+        "video_path": "https://www.youtube.com/watch?v=z63yHEGavhg",
+        "model_path": "",
+        "image_path": "car-safety-cheddar",
+        "categories": ["Motions"],
+        "images": ["main.png"]
+    },
+    {
+        "name": "Cheddar's On Your Radar",
+        "slug": "on-your-data-cheddar",
+        "description": "I've worked a Title Intro for a new segment on Cheddar News Wrap's ON YOUR RADAR. Plus created a template for fullscreen graphic.",
+        "video_path": "https://www.youtube.com/watch?v=tkEiQP2DTKk",
+        "model_path": "",
+        "image_path": "on-your-data-cheddar",
+        "categories": ["Motions"],
+        "images": ["main.png"]
+    },
+    {
+        "name": "ATM Skimmers [CHD]",
+        "slug": "atm-skimmers-cheddar",
+        "description": "I've worked a scene for Cheddar News Youtube Channel ON DEMAND Show.",
+        "video_path": "https://www.youtube.com/watch?v=uOsFkxmwSkI",
+        "model_path": "",
+        "image_path": "atm-skimmers-cheddar",
+        "categories": ["Motions", "Featured"],
+        "images": ["main.png"]
+    },
+    {
+        "name": "Drone in Snow",
+        "slug": "drone-in-snow",
+        "description": "Soaring above my home – ever wondered what it’s like to see your world from the skies? 🚁",
+        "video_path": "https://www.youtube.com/watch?v=2bjkMdWSyeA",
+        "model_path": "",
+        "image_path": "drone-in-snow",
+        "categories": ["Film"],
+        "images": ["drone.png"]
+    },
+    {
+        "name": "UGC HVAC Company",
+        "slug": "ugc-hvac-company",
+        "description": "A User-Generated Content for an HVAC Company in different platforms and different formats",
+        "video_path": "https://www.youtube.com/watch?v=TzDdgm8cbFY",
+        "model_path": "",
+        "image_path": "ugc-hvac-company",
+        "categories": ["Film"],
+        "images": ["main.png"]
+    },
+    {
+        "name": "IS CGC Explainer",
+        "slug": "is-cgc-explainer",
+        "description": "A CGC Explainer Reel for Intellectual Strategies",
+        "video_path": "https://www.youtube.com/watch?v=h90Bgssk4Eg",
+        "model_path": "",
+        "image_path": "is-cgc-explainer",
+        "categories": ["Film"],
+        "images": ["main.png"]
+    },
+    {
+        "name": "Credit Saint Reels",
+        "slug": "credit-saint-reels",
+        "description": "Various reels for Credit Saint; testimonial, google review and promo. (Click the 'Untitled List' to check the rest)",
+        "video_path": ["https://www.youtube.com/watch?v=VOpVg_MJi9U", "https://www.youtube.com/watch?v=mDrfNwwD0Oo", "https://www.youtube.com/watch?v=AH-P5WvGc1I"],
+        "model_path": "",
+        "image_path": "credit-saint-reels",
+        "categories": ["Film"],
+        "images": ["cs-google-review.png"]
+    },
+    {
+        "name": "Frazil 'Walk like this'",
+        "slug": "frazil-reels",
+        "description": "A Promo for Frazil on their social media in vertical and horizontal format. Also, a quick preview of their free friday festival. (Click the 'Untitled List' to check the rest)",
+        "video_path": ["https://www.youtube.com/watch?v=EjOf0xnKhlc", "https://www.youtube.com/watch?v=ixb5VtBlj5s", "https://www.youtube.com/watch?v=7fgUsmEO8es"],
+        "model_path": "",
+        "image_path": "frazil-reels",
+        "categories": ["Film"],
+        "images": ["frazil-walk-like-this.png"]
+    },
+    {
+        "name": "Cherry Blossom Day",
+        "slug": "cherry-blossom-day",
+        "description": "Experience the serene beauty of cherry blossoms at Branch Brook Park through my lens! 🌸 If you missed this season’s bloom, don’t worry, I’ve captured the essence just for you. Swipe through to immerse yourself in a world of delicate pinks and tranquil vibes. 🌿✨",
+        "video_path": "https://www.youtube.com/watch?v=M9gkM-h_3Sw",
+        "model_path": "",
+        "image_path": "cherry-blossom-day",
+        "categories": ["Film"],
+        "images": ["cherry-blossom-day.png"]
+    },
+    {
+        "name": "Ice Gliding",
+        "slug": "ice-gliding",
+        "description": "Gliding through winter vibes at Ice Vault with friends ❄️⛸️",
+        "video_path": "https://www.youtube.com/watch?v=YhpytRG74AA",
+        "model_path": "",
+        "image_path": "ice-gliding",
+        "categories": ["Film"],
+        "images": ["ice-gliding.png"]
+    },
+    {
+        "name": "Cooking with Elegance",
+        "slug": "cooking-with-elegance",
+        "description": "Cooking up in the kitchen with elegance!",
+        "video_path": "https://www.youtube.com/watch?v=lmJoxRO4ysM",
+        "model_path": "",
+        "image_path": "cooking-with-elegance",
+        "categories": ["Film"],
+        "images": ["cooking-with-elegance.png"]
+    },
+    {
+        "name": "Videography Life v1",
+        "slug": "videography-life-v1",
+        "description": "Capturing the moments behind the lens! 🎥 On set, exploring various locations, and in the heart of the court. My journey as a videographer is a thrilling adventure, filled with creative twists and unforgettable stories.",
+        "video_path": "https://www.youtube.com/watch?v=t1A5h7o-2-g",
+        "model_path": "",
+        "image_path": "videography-life-v1",
+        "categories": ["Film", "Featured"],
+        "images": ["videography-life-v1.png"]
+    },
+    {
+        "name": "Did you Know v2",
+        "slug": "did-you-know-v2",
+        "description": "A UGC reel for the company Bolster",
+        "video_path": "https://www.youtube.com/watch?v=jjcgMEweQ1s",
+        "model_path": "",
+        "image_path": "did-you-know-v2",
+        "categories": ["Film", "Featured"],
+        "images": ["did-you-know-v2.png"]
+    },
+    {
+        "name": "Lionheart Reels",
+        "slug": "lionheart-reels",
+        "description": "A UGC reels for the company Lionheart Hall located in Utah. (Click the 'Untitled List' to check the rest)",
+        "video_path": ["https://www.youtube.com/watch?v=ZZiFz0TPoKo", "https://www.youtube.com/watch?v=0DeABFsKUdo", "https://www.youtube.com/watch?v=CRr_YcKAFTo"],
+        "model_path": "",
+        "image_path": "lionheart-reels",
+        "categories": ["Film", "Motions"],
+        "images": ["lh1.png"]
     }
 ]
