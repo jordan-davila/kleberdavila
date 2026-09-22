@@ -1,0 +1,39 @@
+// Roboto Fonts
+@import url("https://fonts.googleapis.com/css?family=Roboto:300,400,700,900");
+@import url("https://fonts.googleapis.com/css?family=IBM+Plex+Serif:400i&display=swap");
+
+// Condor Compressed
+
+@font-face {
+	font-family: "CondorCompressed";
+	font-style: normal;
+	font-weight: 400;
+	src: local("Condor Compressed Regular"), local("CondorC-ompressed-Regular"),
+		url("../../fonts/CondorCompressed - 400.ttf") format("truetype");
+}
+
+@font-face {
+	font-family: "CondorCompressed";
+	font-style: normal;
+	font-weight: 700;
+	src: local("Condor Compressed Bold"), local("CondorC-ompressed-Bold"),
+		url("../../fonts/CondorCompressed - 700.ttf") format("truetype");
+}
+
+// Condor Condensed
+
+@font-face {
+	font-family: "CondorCondensed";
+	font-style: normal;
+	font-weight: 500;
+	src: local("Condor Condensed Regular"), local("Condor-Condensed-Regular"),
+		url("../../fonts/CondorCondensed - 500.ttf") format("truetype");
+}
+
+@font-face {
+	font-family: "CondorCondensed";
+	font-style: normal;
+	font-weight: 700;
+	src: local("Condor Condensed Bold"), local("Condor-Condensed-Bold"),
+		url("../../fonts/CondorCondensed - 700.ttf") format("truetype");
+}

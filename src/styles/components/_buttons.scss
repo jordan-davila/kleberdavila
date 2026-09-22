@@ -1,0 +1,22 @@
+@include generate-button("primary", ($color-gray, $color-red));
+@include generate-button("primary-circle", ($color-gray, $color-red));
+
+.button-secondary-circle {
+	background-color: #fff;
+	color: $color-gray;
+	border-radius: 20px;
+	border: 1px solid $color-light;
+	width: 30px;
+	height: 30px;
+	display: inline-block;
+	text-align: center;
+	outline: none;
+	cursor: pointer;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+	&.red {
+		color: $color-red;
+	}
+}

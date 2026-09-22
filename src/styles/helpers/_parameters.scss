@@ -1,0 +1,68 @@
+/*** Parameters ***/
+
+// Colors
+$color-red: #f73c3c;
+$color-red-dark: #a53131;
+$color-light: #eeeeee;
+$color-lightest: #fbfbfb;
+$color-gray: #8e8c88;
+$color-black: #2c2a2a;
+
+// Gradients
+// $gradient-primary: linear-gradient(90deg, $color-secondary 0%, $color-primary 100%);
+
+// Brand color
+$color-facebook: #3b5998;
+$color-github: #333;
+$color-google: #dc4e41;
+$color-rss: #f26522;
+$color-twitter: #55acee;
+
+// Borders
+$border-light: 1px solid $color-light;
+
+// Font Size
+$font-size-biggest: 13vw;
+$font-size-largest: 11.5vw;
+$font-size-large: 1.2rem;
+$font-size-base: 1rem;
+$font-size-small: 0.85rem;
+$font-size-smallest: 0.8rem;
+$font-size-tiny: 0.7rem;
+
+// Spacing
+$spacing-small: 0.75rem;
+$spacing-single: 1rem;
+$spacing-double: 2rem;
+$spacing-triple: 3rem;
+$spacing-big: 6rem;
+
+// Media queries
+$tablet: 991px;
+$mobile: 767px;
+
+$medium: "(max-width: #{$tablet})";
+$small: "(max-width: #{$mobile})";
+
+// Font Family
+$font-condensed: "CondorCondensed", sans-serif;
+$font-compressed: "CondorCompressed", sans-serif;
+$font-roboto: "Roboto", sans-serif;
+$font-ibm: "IBM Plex Serif", sans-serif;
+
+// Animation
+$anime-in: 0.4s;
+$anime-out: 0.5s;
+
+// Ease
+$ease-snap: cubic-bezier(0.77, 0, 0.175, 1);
+
+// Transition
+$transition-snap: 0.8s $ease-snap;
+
+// Transforms
+$transform-moveUpSkew: translate(0vw, 8vh) skew(0deg, 5deg);
+$transform-scale: scale(0.9, 0.9);
+
+// Image Paths
+// $logo-path: url("/img/logos/logo.svg");

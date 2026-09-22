@@ -1,0 +1,582 @@
+[
+    {
+        "name": "Uraraka",
+        "slug": "uraraka",
+        "description": "A colored-pencil fanart sketch from the series My Hero Academia.",
+        "video_path": "",
+        "model_path": "",
+        "image_path": "uraraka",
+        "categories": ["Featured", "Sketches"],
+        "images": ["main.jpg"]
+    },
+    {
+        "name": "Code Geass - C2",
+        "slug": "code-geass-c2",
+        "description": "A colored-pencil fanart sketch from the series Code Geass, character C.2.",
+        "video_path": "",
+        "model_path": "",
+        "image_path": "code-geass-c2",
+        "categories": ["Sketches"],
+        "images": ["main.png"]
+    },
+    {
+        "name": "RedECX",
+        "slug": "redecx",
+        "description": "A promotional video for RedECX. An auction for art gallery located in Ecuador. Created for their social media.",
+        "video_path": "https://www.youtube.com/watch?v=elBA8j5f7ww",
+        "model_path": "",
+        "image_path": "redecx",
+        "categories": ["Film & Motion"],
+        "images": ["main.jpg"]
+    },
+    {
+        "name": "Tipsi Calculator",
+        "slug": "tipsi-calculator",
+        "description": "A promotional video for an Android & iOS app created by Nyanku.",
+        "video_path": "https://www.youtube.com/watch?v=KpilFzD8n7Y",
+        "model_path": "",
+        "image_path": "tipsi-calculator",
+        "categories": ["Film & Motion"],
+        "images": ["main.png"]
+    },
+    {
+        "name": "Loveli Love Calculator",
+        "slug": "loveli-love-calculator",
+        "description": "A promotional video for an app created by Nyanku.",
+        "video_path": "https://www.youtube.com/watch?v=7dwRkOLiVDs",
+        "model_path": "",
+        "image_path": "loveli-love-calculator",
+        "categories": ["Film & Motion"],
+        "images": ["main.jpg"]
+    },
+    {
+        "name": "Bambu Bar",
+        "slug": "bambu-bar",
+        "description": "A promotional video for a bar and restaurant located in Quito, Ecuador. Created for their social media.",
+        "video_path": "https://www.youtube.com/watch?v=4fK37Q577_8",
+        "model_path": "",
+        "image_path": "bambu-bar",
+        "categories": ["Film & Motion"],
+        "images": ["main.jpg"]
+    },
+    {
+        "name": "Hostal Varadero 3",
+        "slug": "hostal-varadero-3",
+        "description": "A promotional video for a hotel located in Quito, Ecuador. Created for their social media.",
+        "video_path": "https://www.youtube.com/watch?v=NNQPbRquLyI",
+        "model_path": "",
+        "image_path": "hostal-varadero-3",
+        "categories": ["Film & Motion"],
+        "images": ["main.jpg"]
+    },
+    {
+        "name": "La Marelle",
+        "slug": "la-marelle",
+        "description": "A promotional video for a fun family restaurant. Created for their social media.",
+        "video_path": "https://www.youtube.com/watch?v=QAktXQqnUwY",
+        "model_path": "",
+        "image_path": "la-marelle",
+        "categories": ["Film & Motion"],
+        "images": ["main.jpg"]
+    },
+    {
+        "name": "Las Brochetas de David",
+        "slug": "las-brochetas-de-david",
+        "description": "A promotional video for a restaurant in Ecuador. Created for their social media.",
+        "video_path": "https://www.youtube.com/watch?v=Zny-EaI91nU",
+        "model_path": "",
+        "image_path": "las-brochetas-de-david",
+        "categories": ["Film & Motion"],
+        "images": ["main.jpg"]
+    },
+    {
+        "name": "Los Pollazos del Manaba",
+        "slug": "los-pollazos-del-manaba",
+        "description": "A promotional video for a chicken restaurant. Created for their social media.",
+        "video_path": "https://www.youtube.com/watch?v=14ZDLNWgWGU",
+        "model_path": "",
+        "image_path": "los-pollazos-del-manaba",
+        "categories": ["Film & Motion"],
+        "images": ["main.jpg"]
+    },
+    {
+        "name": "Better Home Products",
+        "slug": "better-home-products",
+        "description": "A promotional video for their furniture online store. Also, I had the opportunity to create a brand new logo for their new site.",
+        "video_path": "https://www.youtube.com/watch?v=km1SjW5OHgE",
+        "model_path": "",
+        "image_path": "better-home-products",
+        "categories": ["Film & Motion", "Designs"],
+        "images": ["main.jpg", "BHP-process.jpg", "BHP-Final.jpg"]
+    },
+    {
+        "name": "Giorgio Intro Animation",
+        "slug": "giorgio-intro",
+        "description": "A short animation introduction from the album 'Random Access Memories' by Daft Punk “Giorgio by Moroder”. I don't own the audio, this is just for education purpose. Animated and composite in Adobe After Effects and Clip Studio Paint EX.",
+        "video_path": "https://www.youtube.com/watch?v=WQ43giF591M",
+        "model_path": "",
+        "image_path": "giorgio",
+        "categories": ["Animations"],
+        "images": ["main.jpg"]
+    },
+    {
+        "name": "Rotation",
+        "slug": "rotation",
+        "description": "I had the opportunity to work on this short film as a cameraman, animating the creature monster and visual effects. ",
+        "video_path": "https://www.youtube.com/watch?v=8W1kaj9Hc44",
+        "model_path": "",
+        "image_path": "rotation",
+        "categories": ["Film & Motion", "Animations"],
+        "images": ["main.jpg"]
+    },
+    {
+        "name": "Balloontopus",
+        "slug": "balloontopus",
+        "description": "A short live-action and 3D animatoin film. Modeled and animated in Autodesk Maya and edited on Premiere.",
+        "video_path": "https://www.youtube.com/watch?v=bC9rtHb6joA",
+        "model_path": "",
+        "image_path": "balloontopus",
+        "categories": ["Animations","Film & Motion"],
+        "images": ["main.jpg"]
+    },
+    {
+        "name": "House 1028",
+        "slug": "house-1028",
+        "description": "Created all in Blender, this film is based on an Ecuadorian legend called 'the house 1028' (La Casa 1028). Along with my classmate, we presented this for our thesis project for the Univerdad de las Americas, Ecuador.",
+        "video_path": "https://www.youtube.com/watch?v=IgI_PD2eq6M",
+        "model_path": "",
+        "image_path": "house-1028",
+        "categories": ["Animations"],
+        "images": ["main.jpg","char-design.png", "room-design.jpg"]
+    },
+    {
+        "name": "El Baul del Tesoro",
+        "slug": "el-baul-del-tesoro",
+        "description": "A promotional video for a children book author by Sandra Wandemberg. Created for their social media.",
+        "video_path": "https://www.youtube.com/watch?v=PpHX6HBD33w",
+        "model_path": "",
+        "image_path": "el-baul-del-tesoro",
+        "categories": ["Animations"],
+        "images": ["main.jpg", "background-001.jpg"]
+    },
+    {
+        "name": "Dan Henry INSTA Post",
+        "slug": "dan-henry-insta-post",
+        "description": "A 30 seconds video for Dan Henry on his instagram post. ",
+        "video_path": "https://www.youtube.com/watch?v=e8lKwiC4hMQ",
+        "model_path": "",
+        "image_path": "dan-henry-insta-post",
+        "categories": ["Film & Motion"],
+        "images": ["main.png"]
+    },
+    {
+        "name": "42/7 Funnel",
+        "slug": "forty2-7-funnel",
+        "description": "An introduction funnel video promoting their ebook. Composited, animated logo, trascribe and edited by me.",
+        "video_path": "https://www.youtube.com/watch?v=jnbtNZJ4NXU",
+        "model_path": "",
+        "image_path": "forty2-7-funnel",
+        "categories": ["Film & Motion"],
+        "images": ["main.png"]
+    },
+    {
+        "name": "42/7 Insta Story",
+        "slug": "forty2-7-story",
+        "description": "An instagram story promoting their ebook. Composited, and edited by me.",
+        "video_path": "https://www.youtube.com/watch?v=2NTP6dXeV_M",
+        "model_path": "",
+        "image_path": "forty2-7-story",
+        "categories": ["Film & Motion"],
+        "images": ["main.png"]
+    },
+    {
+        "name": "IG Masterminds",
+        "slug": "ig-masterminds",
+        "description": "A promo video for their workshop. I've also worked with Marco editing his youtube videos and instagram post.",
+        "video_path": "https://www.youtube.com/watch?v=0u4ynWghmvU",
+        "model_path": "",
+        "image_path": "ig-masterminds",
+        "categories": ["Film & Motion"],
+        "images": ["main.png"]
+    },
+    {
+        "name": "IG Masterminds Testimonial",
+        "slug": "ig-masterminds-testimonials",
+        "description": "A testimonial for IG Masterminds. There were more testimonials that was made for this workshop",
+        "video_path": "https://www.youtube.com/watch?v=HCx9JJmrk0g",
+        "model_path": "",
+        "image_path": "ig-masterminds-testimonials",
+        "categories": ["Film & Motion"],
+        "images": ["main.png"]
+    },
+    {
+        "name": "Painting Water Splash",
+        "slug": "tutorial-paint-watersplash",
+        "description": "Learn to paint your own water splashes with this easy step-by-step tutorial. And all this can be done with default brushes on photoshop.",
+        "video_path": "https://www.youtube.com/watch?v=GjWn7ts7PiM",
+        "model_path": "",
+        "image_path": "tutorial-paint-watersplash",
+        "categories": ["Tutorials"],
+        "images": ["main.jpg"]
+    },
+    {
+        "name": "Comic Template in PS",
+        "slug": "tutorial-comic-template",
+        "description": "Based on Kablam Standard Guideline, this template will help create a clean and beautiful panels for your comic. Download link: https://www.facebook.com/watch/?v=816020878583960. Brushes by Kyle's Manga Brush.",
+        "video_path": "https://www.youtube.com/watch?v=AGk-JCO1WLY",
+        "model_path": "",
+        "image_path": "tutorial-comic-template",
+        "categories": ["Tutorials"],
+        "images": ["main.jpg"]
+    },
+    {
+        "name": "Domino's Table Design",
+        "slug": "puerto-rico-dominos-design",
+        "description": "Four uniques table-surface design for domino gaming. A special commission for a client.",
+        "video_path": "",
+        "model_path": "",
+        "image_path": "puerto-rico-dominos-design",
+        "categories": ["Designs"],
+        "images": ["Men002.jpg", "Men001.jpg", "Men003.jpg", "Men004.jpg"]
+    },
+    {
+        "name": "Light Galaxia Wallpaper",
+        "slug": "light-galaxia-wallpaper",
+        "description": "An intergalatic wallpaper design. You may use it as your wallpaper.",
+        "video_path": "",
+        "model_path": "",
+        "image_path": "light-galaxia-wallpaper",
+        "categories": ["Designs"],
+        "images": ["main.jpg"]
+    },
+    {
+        "name": "Tour at Ecuador",
+        "slug": "tour-in-ecuador-designs",
+        "description": "Some personal designs that could be use on t-shirts.",
+        "video_path": "",
+        "model_path": "",
+        "image_path": "tour-in-ecuador-designs",
+        "categories": ["Designs"],
+        "images": ["main-mitad.jpg", "second-ejido.jpg"]
+    },
+    {
+        "name": "Glare",
+        "slug": "glare",
+        "description": "Glance and glare. Created on Procreate",
+        "video_path": "https://www.youtube.com/watch?v=avwqepvuoi4",
+        "model_path": "",
+        "image_path": "glare",
+        "categories": ["Illustrations"],
+        "images": ["main.jpg"]
+    },
+    {
+        "name": "Sweet Dreams",
+        "slug": "sweet-dreams",
+        "description": "A fanart from the series “Tamako Market”",
+        "video_path": "",
+        "model_path": "",
+        "image_path": "sweet-dreams",
+        "categories": ["Illustrations"],
+        "images": ["main.jpg"]
+    },
+    {
+        "name": "Elves Traveling",
+        "slug": "elves-traveling",
+        "description": "A Father and his son wondering around looking for adventures.",
+        "video_path": "",
+        "model_path": "",
+        "image_path": "elves-traveling",
+        "categories": ["Featured", "Illustrations"],
+        "images": ["main.png"]
+    },
+    {
+        "name": "Self-ior",
+        "slug": "self-ior",
+        "description": "Do you take self picture on the mirror? A lovely portrait created on Procreate.",
+        "video_path": "https://www.youtube.com/watch?v=ZLknm4-lT2E",
+        "model_path": "",
+        "image_path": "self-ior",
+        "categories": ["Illustrations"],
+        "images": ["main.jpg"]
+    },
+    {
+        "name": "Monkey Go!",
+        "slug": "monkey-go",
+        "description": "Who doesn't love monkeys!? Created on Procreate.",
+        "video_path": "https://www.youtube.com/watch?v=iYjtmUM5GTw",
+        "model_path": "",
+        "image_path": "monkey-go",
+        "categories": ["Illustrations"],
+        "images": ["main.jpg"]
+    },
+    {
+        "name": "Wind",
+        "slug": "wind",
+        "description": "Inspired by my girlfriend, I made this illustration in clip-studio paint on my iPad.",
+        "video_path": "",
+        "model_path": "",
+        "image_path": "wind",
+        "categories": ["Illustrations"],
+        "images": ["main.jpg"]
+    },
+    {
+        "name": "Playing Pirates!",
+        "slug": "playing-pirates",
+        "description": "As a child, we imagine big and play things big. Pirates in the sky! Created in Photoshop.",
+        "video_path": "",
+        "model_path": "",
+        "image_path": "playing-pirates",
+        "categories": ["Illustrations"],
+        "images": ["main.jpg"]
+    },
+    {
+        "name": "After School",
+        "slug": "after-school",
+        "description": "A schoolgirl laying in bed after a long day of exams. Created in PaintTool SAI.",
+        "video_path": "",
+        "model_path": "",
+        "image_path": "after-school",
+        "categories": ["Illustrations"],
+        "images": ["main.jpg"]
+    },
+    {
+        "name": "I'm off to Las Vegas",
+        "slug": "after-school",
+        "description": "The title says it all. Created in Photoshop.",
+        "video_path": "",
+        "model_path": "",
+        "image_path": "frankies-bride-goes-to-las-vegas",
+        "categories": ["Illustrations"],
+        "images": ["main.jpg"]
+    },
+    {
+        "name": "Vicious Snow White",
+        "slug": "vicious-snow-white",
+        "description": "Impressionism digital art, turning Snow-White to a vicious woman attracting many men and feeding them the poisonous apple.",
+        "video_path": "",
+        "model_path": "",
+        "image_path": "vicious-snow-white",
+        "categories": ["Illustrations"],
+        "images": ["main.jpg"]
+    },
+    {
+        "name": "World of Violin",
+        "slug": "world-of-violin",
+        "description": "A beautiful girl in a dress playin in violin to the world.",
+        "video_path": "https://www.youtube.com/watch?v=B9sXiDCZx9w",
+        "model_path": "",
+        "image_path": "world-of-violin",
+        "categories": ["Illustrations"],
+        "images": ["main.jpg"]
+    },
+    {
+        "name": "Sekkaichi Poster",
+        "slug": "sekkaichi-poster",
+        "description": "A poster made for a client on Upwork Freelance site. Four characters from his sketches in anime-style",
+        "video_path": "",
+        "model_path": "",
+        "image_path": "sekkaichi-poster",
+        "categories": ["Illustrations"],
+        "images": ["main.jpg"]
+    },
+    {
+        "name": "Chol Dal Dal Fanart",
+        "slug": "chol-dal-dal-fanart",
+        "description": "One of my favorite manhwa webtoon comics, this is my fanart. Chol Dal Dal from the webtoons 'Girls of the Wilds'.",
+        "video_path": "",
+        "model_path": "",
+        "image_path": "chol-dal-dal-fanart",
+        "categories": ["Illustrations"],
+        "images": ["main.jpg"]
+    },
+    {
+        "name": "Back to the Future Fanart",
+        "slug": "back-to-the-future-fanart",
+        "description": "I've always wanted to draw this fanart from this great trilogy movies, Back to the Future.",
+        "video_path": "",
+        "model_path": "",
+        "image_path": "back-to-the-future-fanart",
+        "categories": ["Illustrations"],
+        "images": ["main.jpg"]
+    },
+    {
+        "name": "Lil Bowsette Fanart",
+        "slug": "little-bowsette",
+        "description": "Bowsette, a gende-swapped version of the Super Mario franchise, Bowser.",
+        "video_path": "https://www.youtube.com/watch?v=XngFnVy_VaA",
+        "model_path": "",
+        "image_path": "little-bowsette",
+        "categories": ["Illustrations"],
+        "images": ["main.png"]
+    },
+    {
+        "name": "Cindy & Brian Portrait",
+        "slug": "cindy-and-brian-portrait",
+        "description": "A wedding gift for these lovely couples.",
+        "video_path": "",
+        "model_path": "",
+        "image_path": "cindy-and-brian-portrait",
+        "categories": ["Featured", "Illustrations"],
+        "images": ["main.jpg"]
+    },
+    {
+        "name": "Wedding in Ecuador",
+        "slug": "wedding-in-ecuador",
+        "description": "An anniversary gift for my parents. They have a strong bond.",
+        "video_path": "",
+        "model_path": "",
+        "image_path": "wedding-in-ecuador",
+        "categories": ["Featured", "Illustrations"],
+        "images": ["main.png"]
+    },
+    {
+        "name": "Under the Umbrella",
+        "slug": "under-the-umbrella",
+        "description": "A school couples under an umbrella.",
+        "video_path": "",
+        "model_path": "",
+        "image_path": "under-the-umbrella",
+        "categories": ["Featured", "Illustrations"],
+        "images": ["main.png"]
+    },
+    {
+        "name": "Edward Scissorhands",
+        "slug": "edward-scissorhands-3d",
+        "description": "A 3D Fanart of the movie from Johnny Depp's Edward Scissorhands. Sculpted & textured on Zbrush",
+        "video_path": "https://vimeo.com/256319609",
+        "model_path": "",
+        "image_path": "edward-scissorhands-3d",
+        "categories": ["3D Art"],
+        "images": ["main.jpg"]
+    },
+    {
+        "name": "Stocking Anarchy",
+        "slug": "stocking-anarchy-3d",
+        "description": "A 3D Fanart of the series 'Panty & Stocking with Garterbelt'. Modeled & textured on Autodesk Maya",
+        "video_path": "https://www.youtube.com/watch?v=Ljz7b_GU2NM",
+        "model_path": "",
+        "image_path": "stocking-anarchy-3d",
+        "categories": ["3D Art"],
+        "images": ["main.jpg"]
+    },
+    {
+        "name": "A Strange World of Alice",
+        "slug": "a-strange-world-of-alice",
+        "description": "A 3D sculpture design created for ModernArt Corporation.",
+        "video_path": "",
+        "model_path": "",
+        "image_path": "a-strange-world-of-alice",
+        "categories": ["3D Art"],
+        "images": ["main.jpg", "layout.jpg"]
+    },
+    {
+        "name": "Fruitage of Peace",
+        "slug": "fruitage-of-peace",
+        "description": "A 3D sculpture design created for ModernArt Corporation.",
+        "video_path": "",
+        "model_path": "",
+        "image_path": "fruitage-of-peace",
+        "categories": ["3D Art"],
+        "images": ["main.jpg"]
+    },
+    {
+        "name": "The Hanbok Dance",
+        "slug": "the-hanbok-dance",
+        "description": "The Hanbok Dance was inspired by the traditional and cultural Korean Dance. The dance focuses the beauty of the neat arrangement of the dancer's fans. Artwork by me, and modeled & rendered for ModernArt Corporation.",
+        "video_path": "https://www.youtube.com/watch?v=S6xuja2xovQ",
+        "model_path": "",
+        "image_path": "the-hanbok-dance",
+        "categories": ["3D Art"],
+        "images": ["main.jpg"]
+    },
+    {
+        "name": "Rainforest (World)",
+        "slug": "rainforest-world",
+        "description": "A 3D sculpture design created for ModernArt Corporation.",
+        "video_path": "",
+        "model_path": "",
+        "image_path": "rainforest-world",
+        "categories": ["Featured", "3D Art"],
+        "images": ["main.jpg"]
+    },
+    {
+        "name": "Rainforest (Leaves)",
+        "slug": "rainforest-leaves",
+        "description": "A 3D sculpture design created for ModernArt Corporation.",
+        "video_path": "",
+        "model_path": "",
+        "image_path": "rainforest-leaves",
+        "categories": ["3D Art"],
+        "images": ["main.jpg"]
+    },
+    {
+        "name": "Babies Under the Tree",
+        "slug": "babies-under-the-tree",
+        "description": "Two cute and charming babies relaxing under a tree. Modeled in Blender 2.9 and rendered in Keyshot for the company ModernArts in South Korea.",
+        "video_path": "",
+        "model_path": "/models/babyharp.glb",
+        "image_path": "babies-under-the-tree",
+        "categories": ["Featured", "3D Art"],
+        "images": ["main.jpg"]
+    },
+    {
+        "name": "Babies Melody",
+        "slug": "babies-melody",
+        "description": "Cute babies playing instruments for the audience. Modeled in Blender 2.9 and rendered in Keyshot for the company ModernArts in South Korea.",
+        "video_path": "",
+        "model_path": "/models/babyharp.glb",
+        "image_path": "babies-melody",
+        "categories": ["Featured", "3D Art"],
+        "images": ["main.jpg"]
+    },
+    {
+        "name": "Tune of the Night",
+        "slug": "tune-of-the-night",
+        "description": "'밤의곡조' Created for ModernArts Corporation. Modeled in Blender 2.9 and rendered in Keyshot for the company ModernArts in South Korea.",
+        "video_path": "",
+        "model_path": "/models/babyharp.glb",
+        "image_path": "tune-of-the-night",
+        "categories": ["Featured", "3D Art"],
+        "images": ["main.jpg"]
+    },
+    {
+        "name": "Star Butterfly",
+        "slug": "star-butterfly-sketch",
+        "description": "A colored-pencil fanart sketch from the series Star Butterfly.",
+        "video_path": "",
+        "model_path": "",
+        "image_path": "star-butterfly-sketch",
+        "categories": ["Sketches"],
+        "images": ["main.jpg"]
+    },
+    {
+        "name": "Kofuku",
+        "slug": "kofuku-fanart-sketch",
+        "description": "A colored-pencil fanart sketch from the series Noragami, character Kofuku.",
+        "video_path": "https://www.youtube.com/watch?v=Q94u5WDU-lo",
+        "model_path": "",
+        "image_path": "kofuku-fanart-sketch",
+        "categories": ["Sketches"],
+        "images": ["main.jpg"]
+    },
+    {
+        "name": "Violet Evergarden",
+        "slug": "violet-evergarden-sketch",
+        "description": "A colored-pencil fanart sketch from the series Violet Evergarden.",
+        "video_path": "",
+        "model_path": "",
+        "image_path": "violet-evergarden-sketch",
+        "categories": ["Sketches"],
+        "images": ["main.jpg"]
+    },
+    {
+        "name": "Little Red's Basket",
+        "slug": "little-red-sketch",
+        "description": "A digital sketch concept of the Little Red Riding Hood.",
+        "video_path": "",
+        "model_path": "",
+        "image_path": "little-red-sketch",
+        "categories": ["Sketches"],
+        "images": ["main.jpg"]
+    }
+]

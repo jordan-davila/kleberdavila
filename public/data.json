@@ -1,0 +1,37 @@
+{
+    "home": {
+        "name": "Kleber Davila",
+        "subtitle": "Designing and Illustrating unique and engaging digital experiences"
+    },
+    "about": {
+        "title": "<i>I'M KLEBER DAVILA. A <br>DIGITAL ARTIST FOCUSED ON<br></i>DIGITAL PRODUCTS &amp; EXPERIENCES",
+        "description": "I currently work as a freelance 3D Artist at ModernArts Corporation. I made quite a few artwork through ModernArts.",
+        "experiences": [
+            {"company": "ModernArts Corporation", "job": "3D Artist", "time": "Sep 2019 - Present"},
+            {"company": "Warrior Marketing", "job": "Freelance Video Editor", "time": "Jun 2019 - Aug 2019"},
+            {"company": "AVIDesign", "job": "Designer & Administrator", "time": "May 2018 - Apr 2019"}
+        ]
+    },
+    "contacts": {
+        "email": "hi@kleberdavila.com",
+        "message": "Reach out at the email above and share some basic info about your project, budget, and timeline. I'll get back to you as soon as possible.",
+        "first_name": "Kleber"
+    },
+    "social": [
+        {"name": "INSTAGRAM", "link": "https://www.instagram.com/kyazart/"},
+        {"name": "LINKEDIN", "link": "https://www.linkedin.com/in/kleberdavila/"},
+        {"name": "FACEBOOK", "link": "https://www.facebook.com/kyazart1"},
+        {"name": "YOUTUBE", "link": "https://www.youtube.com/channel/UCe76fbIKfj6idSZ2mDu39-Q"}
+    ],
+    "categories": [
+        "Featured",
+        "Illustrations",
+        "Film & Motion",
+        "Animations",
+        "3D Art",
+        "Designs",
+        "Sketches",
+        "Tutorials"
+        
+    ]
+}

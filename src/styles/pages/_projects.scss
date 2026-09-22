@@ -1,0 +1,104 @@
+.projects {
+	color: $color-light;
+
+	.project-info {
+		width: 100%;
+		margin-bottom: 8vw;
+
+		h1 {
+			font-size: $font-size-largest;
+			margin-bottom: 8vw;
+			text-transform: uppercase;
+			font-family: "CondorCompressed", sans-serif;
+			color: $color-red;
+
+			@media #{$medium} {
+				font-size: 12.6vw;
+			}
+		}
+
+		.info {
+			display: flex;
+			margin-bottom: 5vw;
+
+			@media #{$medium} {
+				margin-bottom: 8vw;
+			}
+
+			h2 {
+				font-size: $font-size-base;
+				font-weight: 500;
+				margin-bottom: 2vw;
+				color: $color-gray;
+				letter-spacing: 1px;
+			}
+
+			.tech {
+				flex: 0 30%;
+
+				@media #{$medium} {
+					flex: 0 40%;
+				}
+
+				h3 {
+					font-family: "Roboto", sans-serif;
+					font-size: $font-size-base;
+					font-weight: 300;
+					text-transform: uppercase;
+					margin-bottom: 1vw;
+				}
+			}
+
+			.description {
+				flex: 0 50%;
+
+				@media #{$medium} {
+					flex: 0 60%;
+				}
+				p {
+					font-family: "Roboto", sans-serif;
+					font-size: $font-size-base;
+					font-weight: 300;
+					line-height: 1.7em;
+					margin-bottom: 1vw;
+				}
+			}
+		}
+
+		.links {
+			.link {
+				text-transform: uppercase;
+				font-family: "CondorCondensed", sans-serif;
+				font-size: $font-size-base;
+				margin-right: 4em;
+				color: $color-lightest;
+				letter-spacing: 1px;
+
+				&.red {
+					color: $color-red;
+				}
+			}
+		}
+	}
+
+	.images {
+		width: 100%;
+		margin-left: -4vw;
+
+		@media #{$medium} {
+			// margin-left: 0vw;
+		}
+
+		img {
+			width: 100%;
+			margin-bottom: 8vw;
+            background-color: #383636;
+		}
+	}
+
+    .video {
+        width: 100%;
+		margin-left: -4vw;
+        margin-bottom: 8vw;
+    }
+}

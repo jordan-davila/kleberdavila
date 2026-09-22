@@ -1,0 +1,14 @@
+/node_modules/
+/build/
+/.vercel/
+.DS_Store
+.env
+.env.*
+!.env.example
+.npmrc
+report.*.json
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.vercel
+.env*

@@ -1,0 +1,30 @@
+/* DOXA
+   - Version:  1.1.0
+   - Author:   @ostrenaud_clem
+*/
+
+// Helpers
+@import "helpers/parameters";
+@import "helpers/functions";
+@import "helpers/mixins";
+
+// Base
+@import "base/colors";
+@import "base/normalize";
+@import "base/fonts";
+@import "base/base";
+
+// Layouts
+@import "layouts/grid";
+@import "layouts/navigation";
+
+// Components
+@import "components/buttons";
+@import "components/forms";
+
+// Pages
+@import "pages/home";
+@import "pages/about";
+@import "pages/work";
+@import "pages/contact";
+@import "pages/projects";

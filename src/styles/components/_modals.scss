@@ -1,0 +1,83 @@
+.modal-new-city {
+	border-radius: 10px;
+	background-color: white;
+	padding: 3em;
+
+	h1 {
+		font-size: $font-size-small;
+		margin-bottom: 2em;
+	}
+
+	form {
+		display: flex;
+		flex-direction: column;
+
+		input {
+			width: 100%;
+			padding: 1em 0em;
+			margin-bottom: 2em;
+			outline: none;
+			border: 0;
+			border-bottom: 1px solid $color-light;
+			font-size: $font-size-small;
+		}
+
+		.options {
+			display: flex;
+			justify-content: flex-start;
+			align-items: center;
+
+			button {
+				margin-right: 1em;
+			}
+
+			a {
+				color: $color-gray;
+				font-size: $font-size-base;
+			}
+		}
+	}
+}
+
+.modal-new-territory {
+	border-radius: 10px;
+	background-color: white;
+	padding: 3em;
+
+	h1 {
+		font-size: $font-size-small;
+		margin-bottom: 2em;
+	}
+
+	form {
+		display: flex;
+		flex-direction: column;
+
+		input, select {
+			width: 100%;
+			padding: 1em 0em;
+			margin-bottom: 2em;
+			outline: none;
+			border: 0;
+			border-bottom: 1px solid $color-light;
+			font-size: $font-size-small;
+			background: transparent;
+			appearance: none;
+		}
+
+		.options {
+			display: flex;
+			justify-content: flex-start;
+			align-items: center;
+
+			button {
+				margin-right: 1em;
+			}
+
+			a {
+				color: $color-gray;
+				font-size: $font-size-base;
+			}
+		}
+	}
+}

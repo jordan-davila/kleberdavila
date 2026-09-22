@@ -1,0 +1,30 @@
+@mixin generate-color($name, $titles, $subtitles, $paragraphs, $bg, $cursor) {
+    .#{$name} {
+        --color-titles: #{$titles};
+        --color-bg: #{$bg};
+        --color-cursor: #{$cursor};
+        --color-subtitles: #{$subtitles};
+        --color-paragraphs: #{$paragraphs};
+        background-color: var(--color-bg);
+    }
+}
+
+@include generate-color("home", $color-black, $color-black, $color-black, $color-lightest, $color-black);
+@include generate-color("work", $color-red, $color-gray, $color-lightest, $color-black, $color-lightest);
+@include generate-color("projects", $color-red, $color-gray, $color-lightest, $color-black, $color-lightest);
+@include generate-color(
+    "contact",
+    $color-lightest,
+    $color-lightest,
+    $color-lightest,
+    $color-red,
+    $color-black
+);
+@include generate-color(
+    "about",
+    $color-lightest,
+    $color-gray,
+    $color-lightest,
+    $color-black,
+    $color-lightest
+);

@@ -1,0 +1,74 @@
+/*** Button mixins ***/
+
+/**
+ * Generate button style
+ * @param {String} - $name - required
+ * @param {String} - $background - required - format accepted: hsla, rgb, #
+ * @param {Strong} - $type - optionnal - format accepted: hsla, rgb, #
+ * If no $color specify, the 'set-text-color' function is called
+ * go check the _function.scss
+ */
+@mixin generate-button($name, $background) {
+    .button-#{$name} {
+        @if (length($background) <= 1) {
+            background: $background;
+            box-shadow: 0px 3px 0px mix(black, $background, 30%);
+
+            &:hover {
+                color: white !important;
+                transform: translate(0px, 2px);
+                box-shadow: 0px 1px 0px mix(black, $background, 30%);
+            }
+        } @else {
+            background: linear-gradient(90deg, nth($background, 1) 0%, nth($background, 2) 100%);
+            box-shadow: 0px 3px 0px mix(black, nth($background, 1), 30%);
+
+            &:hover {
+                color: white !important;
+                transform: translate(0px, 2px);
+                box-shadow: 0px 1px 0px mix(black, nth($background, 1), 30%);
+            }
+        }
+
+        display: inline-block;
+        border-radius: 20px;
+        border: 0px;
+        text-align: center;
+        font-size: $font-size-small;
+        padding: 0.8em 0em;
+        min-width: if($name == "primary-circle", 37px, 120px);
+        color: white !important;
+        outline: none;
+        cursor: pointer;
+    }
+}
+
+/*** Indicator mixins ***/
+
+/**
+ * Generate indicator style
+ * @param {String} - $name - required
+ * @param {String} - $background - required - format accepted: hsla, rgb, #
+ */
+@mixin generate-indicator($name, $background) {
+    .indicator-#{$name} {
+        background-color: $background;
+        display: inline-block;
+        color: white;
+        border-radius: 20px;
+        padding: 0.5em 1em;
+        text-align: center;
+        font-size: $font-size-tiny;
+    }
+}
+
+/*** Indicator mixins ***/
+
+/**
+ * Generate indicator style
+ * @param {String} - $name - required
+ * @param {String} - $background - required - format accepted: hsla, rgb, #
+ */
+@mixin transition($element) {
+    transition: $element 0.2s ease-in-out;
+}

@@ -1,0 +1,116 @@
+.about {
+	.title {
+		margin-bottom: 8vw;
+		h1 {
+			font-family: "CondorCompressed", sans-serif;
+			font-size: 8.4vw;
+			line-height: 0.9em;
+			font-weight: 400;
+			color: var(--color-titles);
+			@media #{$medium} {
+				font-size: 12.6vw;
+			}
+
+			i {
+				opacity: 0.4;
+				font-style: normal !important;
+			}
+		}
+	}
+
+	.description {
+		display: flex;
+		justify-content: flex-end;
+		align-items: center;
+		font-family: "Roboto", sans-serif;
+		margin-bottom: 12vw;
+
+		.wrap {
+			flex: 0 40%;
+			transform: translateX(-10vw);
+
+			@media #{$medium} {
+				flex: 1;
+				transform: translateX(0vw);
+			}
+
+			a {
+				margin-bottom: 8vw;
+				font-size: 1.25vw;
+				letter-spacing: 1px;
+				display: inline-block;
+				line-height: 1.7em;
+				color: var(--color-paragraphs);
+
+				@media #{$medium} {
+					font-size: 2.25vw;
+				}
+
+				@media #{$small} {
+					font-size: 2.7vw;
+				}
+			}
+			p {
+				font-size: 1vw;
+				line-height: 1.7em;
+				color: var(--color-paragraphs);
+
+				@media #{$medium} {
+					font-size: 2vw;
+				}
+
+				@media #{$small} {
+					font-size: 2.7vw;
+				}
+			}
+		}
+	}
+
+	.experiences {
+		display: flex;
+		flex-direction: column;
+
+		h1 {
+			font-family: "CondorCompressed", sans-serif;
+			font-size: 3.19vw;
+			font-weight: 400;
+			color: var(--color-paragraphs);
+			margin-bottom: 8vw;
+
+			@media #{$medium} {
+				font-size: 4.4vw;
+			}
+
+			@media #{$small} {
+				font-size: 6vw;
+			}
+		}
+
+		.exp {
+			display: flex;
+			flex-direction: row;
+			margin-bottom: 6vw;
+
+			&.current {
+				.name {
+					font-weight: 500;
+				}
+			}
+
+			.name {
+				flex: 1;
+				font-family: "Roboto", sans-serif;
+				font-size: 1.25vw;
+				font-weight: 300;
+				letter-spacing: 1px;
+				color: var(--color-paragraphs);
+				@media #{$medium} {
+					font-size: 2.25vw;
+				}
+				@media #{$small} {
+					font-size: 2.7vw;
+				}
+			}
+		}
+	}
+}

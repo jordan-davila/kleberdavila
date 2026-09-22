@@ -1,0 +1,16 @@
+.flash {
+	position: absolute;
+	bottom: 30px;
+	right: 30px;
+	color: white;
+	padding: 1em;
+	border-radius: 10px;
+
+	&.success {
+		background-color: $color-green;
+	}
+
+	&.error {
+		background-color: $color-red;
+	}
+}

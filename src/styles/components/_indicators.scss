@@ -1,0 +1,16 @@
+@include generate-indicator("green", $color-green);
+@include generate-indicator("blue", $color-primary);
+
+
+.indicator-circle {
+	height: 40px;
+	width: 40px;
+	color: white;
+	font-size: $font-size-small;
+	font-weight: 700;
+	background: $gradient-primary;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	border-radius: 20px;
+}
